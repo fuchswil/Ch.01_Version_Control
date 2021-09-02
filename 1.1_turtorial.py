@@ -12,6 +12,7 @@ ye=turtle.Turtle()
 ye.color('black')
 ye.shape('turtle')
 
+ye.width(15)
 ye.penup()
 ye.goto(0,-150)
 ye.pendown()
@@ -46,6 +47,9 @@ ye.forward(120)
 ye.left(90)
 ye.forward(40)
 ye.pendown()
+ye.pencolor('red')
+ye.color('red')
+ye.begin_fill()
 ye.left(90)
 ye.forward(80)
 ye.left(90)
@@ -54,9 +58,9 @@ ye.left(90)
 ye.forward(80)
 ye.left(90)
 ye.forward(80)
-
-#yoda.pencolor('#00FF00')
-
-
+ye.end_fill()
+ye.penup()
+ye.goto(150,-165)
+ye.hideturtle()
 ye.write('Will Fuchs',font=("Arial", 16, "normal")) # signs your name to your art
 turtle.exitonclick() #Keeps pycharm window open so we can see the drawing
