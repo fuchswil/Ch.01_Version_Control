@@ -62,5 +62,5 @@ ye.end_fill()
 ye.penup()
 ye.goto(150,-165)
 ye.hideturtle()
-ye.write('Will Fuchs',font=("Arial", 16, "normal")) # signs your name to your art
+ye.write('Will Fuchs',font=("Arial", 24, "normal")) # signs your name to your art
 turtle.exitonclick() #Keeps pycharm window open so we can see the drawing

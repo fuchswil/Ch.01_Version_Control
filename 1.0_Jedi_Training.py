@@ -1,21 +1,19 @@
 '''
-Sign your name:________________
+Sign your name:Will Fuchs
 
+Define Forking: Making a copy of a repository to your own account
 
+Define Cloning: When the copied file is downloaded to your local repository for you to work on
 
-Define Forking: 
+Define Branching: When you split the code into different versions that you can edit individually
 
-Define Cloning: 
+Define Committing: saving the changes you made to the code,
 
-Define Branching:
+Define Merging: Merging the branches of code back together
 
-Define Committing: 
+Define Pushing: putting the code back into your online repository
 
-Define Merging: 
-
-Define Pushing:
-
-Define Pull Request:
+Define Pull Request: requesting to send the code to the scrum master or whatever its called
 
 
 '''
